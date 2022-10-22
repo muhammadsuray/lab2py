@@ -1,4 +1,4 @@
-#tugas bahasa pemrograman pertemuan ke-5
+#Tugas bahasa pemrograman pertemuan ke-5
 
 <br>
 Nama : Muhammad Rizki <br>
@@ -13,34 +13,41 @@ Kelas : TI.22.B1<br>
 | 4 | [latihan 3](#Latihan-3) |
 
 ## Install Python
-1. download python pada halaman web python [di sini](https://python.org)
-2. buka lalu centang bagian *add python to PATH* lalu klik install now
-3. Instalasi Selesai, klik close
+1. download python pada halaman web python [di sini](https://python.org) <br>
+![download python](https://user-images.githubusercontent.com/115475511/197359893-312b55d5-740a-4ecb-8dd5-2e1ccb27bbf4.PNG)
+2. buka lalu centang bagian *add python to PATH* lalu klik install now <br>
+![install python](https://user-images.githubusercontent.com/115475511/197359900-a854eb05-44bd-48c0-a4b8-55dbd00ad7fa.PNG)
+![install python2](https://user-images.githubusercontent.com/115475511/197359901-3d8c3ec5-4ae8-46b2-b477-3f34cd000690.PNG)
+
+3. Instalasi Selesai, klik close <br>
+![install success](https://user-images.githubusercontent.com/115475511/197359909-4d563154-b737-4d00-87d1-ba1a961aae2e.PNG)
 
 <br><br>
 
 ## Latihan 1
 * buat file latihan1.py
-* tulis kode seperti contoh
+* tulis kode seperti contoh <br>
+![code latihan1](https://user-images.githubusercontent.com/115475511/197359922-3dbf816a-0a5a-4958-b48e-62abd6a69e7d.PNG)
 
 ```python
-#menampilkan tulisan 'Hello' di layar
+#cetak tulisan 'Hello' di layar
 print("Hello")
-#menampilkan tulisan 'Saya sedang belajar python' di layar
+#cetak tulisan 'Saya sedang belajar python' di layar
 print("Saya sedang belajar python")
 ```
 * lakukan run file
-* maka akan muncul program yang dijalankan
-
+* maka akan muncul program yang dijalankan <br>
+![run latihan1](https://user-images.githubusercontent.com/115475511/197359966-08e16d58-ad2a-4fac-90a5-598a4258ef3e.PNG)
+<br>
 ```
 Hello
 Saya sedang belajar python
 ```
-
-
+<br>
 ## Latihan 2
 * buat file latihan2.py
 * tulis kode seperti contoh
+![code latihan2](https://user-images.githubusercontent.com/115475511/197359987-a4965e2f-9a14-4547-9974-2206d543190c.PNG)
 
 ``` python
 # menjumlahkan dua bilangan menggunakan variabel a & b
@@ -53,6 +60,7 @@ print("hasil penjumlahan a + b =", a+b)
 ```
 * lakukan running file
 * maka akan muncul program yang dijalankan
+![run latihan3](https://user-images.githubusercontent.com/115475511/197359997-93d3d523-71ef-4843-9a1d-ee6edefe2cda.PNG)
 
 ```
 Variabel a = 8
@@ -64,6 +72,7 @@ hasil penjumlahan a + b = 14
 ## Latihan 3
 * buat file latihan3.py
 * tulis kode seperti contoh
+![code latihan3](https://user-images.githubusercontent.com/115475511/197359999-4fe3c58d-e192-4964-85ef-65e63f9955b8.PNG)
 
 ```python
 #input nilai variabel
@@ -86,6 +95,8 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 ```
 * lakukan run file
 * maka akan muncul program yang dijalankan, jangan lupa masukan angka
+![run latihan3](https://user-images.githubusercontent.com/115475511/197360015-c7d57094-02fa-4b24-85b1-c09248b24688.PNG)
+
 
 ```
 masukan nilai pertama: 6
