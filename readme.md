@@ -47,7 +47,8 @@ Saya sedang belajar python
 ```
 
 <br>
-## Latihan 2
+## Latihan 2 
+
 * buat file latihan2.py
 * tulis kode seperti contoh <br>
 
