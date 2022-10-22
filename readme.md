@@ -46,7 +46,7 @@ Saya sedang belajar python
 <br>
 ## Latihan 2
 * buat file latihan2.py
-* tulis kode seperti contoh
+* tulis kode seperti contoh <br>
 ![code latihan2](https://user-images.githubusercontent.com/115475511/197359987-a4965e2f-9a14-4547-9974-2206d543190c.PNG)
 
 ``` python
