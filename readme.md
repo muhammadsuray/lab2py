@@ -35,14 +35,17 @@ print("Hello")
 #cetak tulisan 'Saya sedang belajar python' di layar
 print("Saya sedang belajar python")
 ```
+
 * lakukan run file
 * maka akan muncul program yang dijalankan <br>
 ![run latihan1](https://user-images.githubusercontent.com/115475511/197359966-08e16d58-ad2a-4fac-90a5-598a4258ef3e.PNG)
 <br>
+
 ```
 Hello
 Saya sedang belajar python
 ```
+
 <br>
 ## Latihan 2
 * buat file latihan2.py
