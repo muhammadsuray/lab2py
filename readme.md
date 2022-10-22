@@ -60,8 +60,9 @@ print("Variabel b =",b)
 print("hasil penjumlahan a + b =", a+b)
 ```
 * lakukan running file
-* maka akan muncul program yang dijalankan
-![run latihan3](https://user-images.githubusercontent.com/115475511/197359997-93d3d523-71ef-4843-9a1d-ee6edefe2cda.PNG)
+* maka akan muncul program yang dijalankan <br>
+![run latihan2](https://user-images.githubusercontent.com/115475511/197360248-64841aa7-fc91-42c0-a08c-d8cec0da297a.PNG)
+
 
 ```
 Variabel a = 8
